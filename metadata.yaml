@@ -1,0 +1,32 @@
+_repo: Kansankapina-Ahvenanmaalla-v-1808_71613
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Säilä, J.
+    aliases:
+    - Judén, J.
+    - Juden, J.
+    - Judén, Jebets Jesiel Judi
+    - Saila, J.
+    birthdate: 1851
+    deathdate: 1911
+    gutenberg_agent_id: '51439'
+    url: http://www.gutenberg.org/2009/agents/51439
+    wikipedia: https://fi.wikipedia.org/wiki/J._S%C3%A4il%C3%A4
+description: ''
+gutenberg_issued: '2023-09-11'
+identifiers:
+  gutenberg: '71613'
+language: fi
+pgterms:marc905: 20230126044521sil
+pgterms:marc906: '1896'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aTampere :$bUusi Kirjapaino, $c1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Kansankapina Ahvenanmaalla v. 1808
+url: http://www.gutenberg.org/ebooks/71613
