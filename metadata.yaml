@@ -1,5 +1,8 @@
 _repo: Kansankapina-Ahvenanmaalla-v-1808_71613
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Säilä, J.
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51439
     wikipedia: https://fi.wikipedia.org/wiki/J._S%C3%A4il%C3%A4
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71613#Kansankapina-Ahvenanmaalla-v-1808
 gutenberg_issued: '2023-09-11'
 identifiers:
   gutenberg: '71613'
